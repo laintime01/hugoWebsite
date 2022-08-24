@@ -20,13 +20,23 @@
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
   # 网站标题, 用于 Open Graph 和 Twitter Cards
-  title = "Bepo's Site"
+  title = "Hao's Site"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
   description = "A long way to go"
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = []
+
+  # whether to use robots.txt
+  # 是否使用 robots.txt
+  enableRobotsTXT = true
+  # whether to use git commit log
+  # 是否使用 git 信息
+  enableGitInfo = true
+  # whether to use emoji code
+  # 是否使用 emoji 代码
+  enableEmoji = true
 
   # Header config
   # 页面头部导航栏配置
