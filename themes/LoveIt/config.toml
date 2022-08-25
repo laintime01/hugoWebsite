@@ -287,10 +287,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = "https://github.com/laintime01"
-    Linkedin = "https://www.linkedin.cn/incareer/in/ACoAAD2NL1cB8sZvCcir-u5sY-ipwVMxmK2iRak"
-    Twitter = "https://twitter.com/hzhe111"
-    Instagram = "https://www.instagram.com/hzhe111/"
+    GitHub = "laintime01"
+    Linkedin = "incareer/in/ACoAAD2NL1cB8sZvCcir-u5sY-ipwVMxmK2iRak"
+    Twitter = "hzhe111"
+    Instagram = "hzhe111/"
     Facebook = ""
     Telegram = ""
     Medium = ""
@@ -304,9 +304,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Pinterest = ""
     Reddit = ""
     Codepen = ""
-    FreeCodeCamp = "https://www.freecodecamp.org/bepo_zheng"
+    FreeCodeCamp = "bepo_zheng"
     Bitbucket = ""
-    Stackoverflow = "https://stackoverflow.com/users/19836679/bepo"
+    Stackoverflow = "users/19836679/bepo"
     Weibo = ""
     Odnoklassniki = ""
     VK = ""
