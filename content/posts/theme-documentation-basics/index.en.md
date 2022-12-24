@@ -28,10 +28,7 @@ along with lowering the entry barrier for newcomers and helping veterans refresh
 
 ##  Python
 Python3 is a truly versatile programming language, loved both by web developers, data scientists
-and software engineers. 
-
-
-
+and software engineers.
 ![](WechatIMG183.jpeg)
 ![](WechatIMG182.jpeg)
 
