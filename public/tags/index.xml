@@ -1,0 +1,63 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Hao Site</title>
+        <link>http://haoo.tech/tags/</link>
+        <description>Tags - Tag - Hao Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 30 Aug 2022 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://haoo.tech/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>安装</title>
+    <link>http://haoo.tech/tags/installation/</link>
+    <pubDate>Tue, 30 Aug 2022 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://haoo.tech/tags/installation/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>配置</title>
+    <link>http://haoo.tech/tags/configuration/</link>
+    <pubDate>Tue, 30 Aug 2022 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://haoo.tech/tags/configuration/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Markdown</title>
+    <link>http://haoo.tech/tags/markdown/</link>
+    <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://haoo.tech/tags/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>内容</title>
+    <link>http://haoo.tech/tags/content/</link>
+    <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://haoo.tech/tags/content/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>shortcodes</title>
+    <link>http://haoo.tech/tags/shortcodes/</link>
+    <pubDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://haoo.tech/tags/shortcodes/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>HTML</title>
+    <link>http://haoo.tech/tags/html/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://haoo.tech/tags/html/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>emoji</title>
+    <link>http://haoo.tech/tags/emoji/</link>
+    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://haoo.tech/tags/emoji/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
