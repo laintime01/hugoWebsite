@@ -22,20 +22,20 @@
     <description><![CDATA[<p>Find out how to create and organize your content quickly and intuitively in <strong>LoveIt</strong> theme.</p>]]></description>
 </item>
 <item>
+    <title>Basic Markdown Syntax</title>
+    <link>http://haoo.tech/posts/basic-markdown-syntax/</link>
+    <pubDate>Tue, 01 Mar 2022 21:57:40 &#43;0800</pubDate>
+    <author>Hao</author>
+    <guid>http://haoo.tech/posts/basic-markdown-syntax/</guid>
+    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
+</item>
+<item>
     <title>Theme Documentation - Extended Shortcodes</title>
     <link>http://haoo.tech/posts/theme-documentation-extended-shortcodes/</link>
     <pubDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</pubDate>
     <author>Dillon</author>
     <guid>http://haoo.tech/posts/theme-documentation-extended-shortcodes/</guid>
     <description><![CDATA[<p><strong>LoveIt</strong> theme provides multiple shortcodes on top of built-in ones in Hugo.</p>]]></description>
-</item>
-<item>
-    <title>Basic Markdown Syntax</title>
-    <link>http://haoo.tech/posts/basic-markdown-syntax/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://haoo.tech/posts/basic-markdown-syntax/</guid>
-    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
 </item>
 <item>
     <title>Theme Documentation - mermaid Shortcode</title>
